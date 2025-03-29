@@ -1,12 +1,51 @@
-# React + Vite
+# User Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a user management system built with Vite, React, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Make sure you have the following software installed on your local machine:
+- Git
+- Node.js (which includes npm)
+
+### Installation
+
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/Vikashcodez/Assignment.git
+    cd Assignment
+    ```
+
+2. **Install Dependencies**:
+    ```sh
+    npm install
+    ```
+
+3. **Run the Development Server**:
+    ```sh
+    npm run dev
+    ```
+
+### Login Details
+
+To access the application, use the following login credentials:
+- **Email**: eve.holt@reqres.in
+- **Password**: cityslicka
+
+## Built With
+
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+
+## Authors
+
+- **Vikash** - *Initial work* - [Vikashcodez](https://github.com/Vikashcodez)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
